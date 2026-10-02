@@ -1,0 +1,28 @@
+Câu 1: Value Types vs Reference Types
+
+Value Type là kiểu dữ liệu lưu trực tiếp giá trị, khi gán sang biến khác thì giá trị được sao chép nên hai biến độc lập.
+ Reference Type lưu tham chiếu đến đối tượng, khi gán thì tham chiếu được sao chép nên hai biến có thể cùng trỏ đến một
+ đối tượng. Value Type thường được lưu trên Stack, còn đối tượng Reference Type trên Heap, tuy nhiên Value Type là field 
+ trong Class cũng được lưu trên Heap. Bộ nhớ của đối tượng Reference Type được Garbage Collector quản lý. Riêng string là
+  Reference Type nhưng có tính immutable, khi thay đổi sẽ tạo chuỗi mới.
+
+Câu 2: init vs set
+
+set cho phép property được gán hoặc thay đổi bất cứ lúc nào sau khi đối tượng được tạo. Trong khi đó, init được giới thiệu 
+từ C# 9.0 và chỉ cho phép gán giá trị trong quá trình khởi tạo đối tượng, sau khi khởi tạo hoàn tất thì không thể thay đổi.
+ init giúp tạo các đối tượng có dữ liệu gần như bất biến và vẫn cho phép sử dụng Object Initializer. So với { get; }, init
+ giúp khởi tạo nhiều thuộc tính thuận tiện hơn mà không cần constructor dài.
+
+Câu 3: virtual vs override
+
+virtual được khai báo ở lớp cha để cho phép lớp con ghi đè phương thức, còn override được sử dụng ở lớp con để định nghĩa 
+lại phương thức đó. Hai từ khóa này hỗ trợ đa hình động, nghĩa là phương thức được thực thi dựa trên kiểu thực tế của đối
+tượng tại thời điểm chạy. override cũng được dùng để triển khai phương thức abstract của lớp cha. Ngoài ra, sealed override 
+có thể ngăn các lớp con tiếp theo ghi đè phương thức đó.
+
+Câu 4: static trong Class
+
+static dùng để khai báo thành phần thuộc về Class thay vì một instance cụ thể, nên có thể truy cập trực tiếp thông qua tên
+ Class mà không cần new. Bên trong phương thức static không thể truy cập trực tiếp thành phần instance hoặc dùng this vì
+  chưa chắc đã có đối tượng cụ thể. static constructor dùng để khởi tạo dữ liệu static và được CLR tự động gọi một lần khi 
+  kiểu được khởi tạo. static class chỉ chứa các thành phần static và không thể tạo instance, ví dụ System.Math và System.Console.

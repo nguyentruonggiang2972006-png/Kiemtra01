@@ -1,0 +1,17 @@
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Form1.resources
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\refint\WinFormsApp1.dll
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\ref\WinFormsApp1.dll
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\Kiemtran01\Bai03\WinFormsApp1\obj\Debug\net10.0-windows\WinForms.E4050A35.Up2Date
